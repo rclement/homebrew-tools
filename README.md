@@ -19,7 +19,7 @@ This is the _most official_ CLI client to interact with [Dokku](http://dokku.vie
 
 Usage details in [Dokku documentation](http://dokku.viewdocs.io/dokku/community/clients/#bash-zsh-etc-dokku_clientsh).
 
-## License
+# License
 
 The MIT License (MIT)
 

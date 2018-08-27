@@ -17,7 +17,7 @@ class Dokku < Formula
       export DOKKU_HOST=dokku.me
       export DOKKU_PORT=22
       export DOKKU_GIT_REMOTE=dokku
-    EOS
+  EOS
   end
 
   test do

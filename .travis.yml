@@ -1,7 +1,4 @@
-language: python
-
-python:
-  - "3.6"
+language: bash
 
 os: osx
 
@@ -9,4 +6,4 @@ before_install:
   - brew update
 
 script:
-  - python ci.py
+  - bash ci.sh
